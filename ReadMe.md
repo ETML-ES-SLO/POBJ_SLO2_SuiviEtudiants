@@ -75,17 +75,27 @@ prenez celui-qui vous convient
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | UML | | | | | | | | | | 
 | [Ex1](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex1_UML) | NOK | NOK | OK | OK | OK | NOK | NOK | NOK | OK |
+| [PRJ UML](https://github.com/PBYetml/POBJ_TEST_UML_RESULT_24_25) | NOK | NOK | OK | OK | OK | NOK | NOK | NOK | OK |
 | C++ | | | | | | | | | |
-| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | OK | NOK | OK | NOK |  NOK |
-| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  NOK |
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  NOK |
-| [Ex5]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex6]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex7]() | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [Ex10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [Ex1](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_Cpp) | NOK | NOK | NOK | NOK | OK | NOK | OK | NOK |  NOK |
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_Cpp) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  NOK |
+| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_Cpp) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |  NOK |
+| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex5_RevisionClass1_Cpp) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex5](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex6_RevisionClass2_Cpp) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex6](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex7_ClassAffichageLCD_Cpp) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| C# | | | | | | | | | |
+| [Ex1](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_CSharp) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex6_RevisionClass2_CSharp) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [6] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [7] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
+| [9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| [10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
+| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | JAVA | | | | | | | | | |
 | [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
 | [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
@@ -97,98 +107,65 @@ prenez celui-qui vous convient
 | Ex8 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex9 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 | Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| C# | | | | | | | | | |
-| [Ex2](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex2_ConversionC_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex3](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex3_Fonctions_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [Ex4](https://github.com/PBYetml/POBJ_SLO2_23_24/tree/main/Exercices/Ex4_ClassFigGeo_POO) | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [5] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [6] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [7] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [8] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK |
-| [9] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| [10] | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
-| Ex10 | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | NOK | 
 
-## Exercice 1 => **UML**
+## **UML**
+### ***Exo1***
 * donnee : exercice 1 - UML  
 * voir chapitre théorique : UML -> Ch1, Ch2, Ch3
 * etat d'avancement => voir [#22](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/22)
 
-## Exercice 2 => **C++** 
+### ***PRJ UML - Correction***
+* donnee : Test - Prj - UML  
+* voir chapitre théorique : UML -> Ch1, Ch2, Ch3
+* etat d'avancement => voir [#40](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/40)
+
+## **C ++**
+### ***Exo2*** 
 * donnee : exercice 1 - C++
-* codage "individuel"
-* etat d'avancement => voir []()
+* voir chapitre théorique : C++ -> Ch2, Ch3
+* etat d'avancement => voir [#28](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/28)
 
-
-
-
-
-
-
-
-## Exercice 2 => **C#**
-### Suivi Projet  
-* donnee : exercice 1 - C++
-* codage "individuel"	 
-* etat d'avancement => voir []()
-
-## Exercice 3 => **JAVA**
-### Suivi Projet  
-* donnee : exercice 1 - C++ 
-* codage "individuel"
-=> etat d'avancement => voir []()
-
-## Exercice 3 => **C++**
-### Suivi Projet  
+### ***Exo3***  
 * donnee : exercice 2 - C++
-* codage "individuel"
-* etat d'avancement => voir []()
+* voir chapitre théorique : C++ -> Ch2, Ch3 
+* etat d'avancement => voir [#29](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/29)
 
-## Exercice 3 => **C#**
-### Suivi Projet  
-* donnee : exercice 2 - C++
-* codage "individuel" 
-* etat d'avancement => voir []()
+### ***Exo4***  
+* donnee : exercice 3 - C++ 
+* voir chapitre théorique : C++ -> Ch2, Ch3, Ch4, Ch5 
+* etat d'avancement => voir [#34](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/34)
 
-## Exercice 4 => **C++**
-### Suivi Projet  
+### ***Exo5*** 
 * donnee : exercice 4 - C++
-* codage "individuel"
+* voir chapitre théorique : C++ -> Ch2, Ch3, Ch4, Ch5 
+* etat d'avancement => voir [#35](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/35)
+
+### ***Exo6*** 
+* donnee : exercice 5 - C++
+* voir chapitre théorique : C++ -> Ch2, Ch3, Ch4, Ch5, Ch6 
+* etat d'avancement => voir [#36](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/36)
+
+### ***Exo7*** 
+* donnee : exercice 6 - C++
+* voir chapitre théorique : C++ -> Ch2, Ch3, Ch4, Ch5, Ch6 
+* etat d'avancement => voir [#36](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/36)
+
+### ***PRJ C++ - Correction***
+* donnee : Test - Prj - C++ 
+* voir chapitre théorique : C++ -> Ch2, Ch3, Ch4, Ch5, Ch6 
 * etat d'avancement => voir []()
 
-## Exercice 5 => **C++**
-### Suivi Projet  
-* donnee : exercice 5 - C++) 
-* codage "individuel"
-* etat d'avancement => voir []()
+### ***Exo8*** 
+* donnee : exercice 1 - C#
+* voir chapitre théorique : C# -> Ch2 
+* etat d'avancement => voir [#42](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/42)
 
-## Exercice 6 => **C++**
-### Suivi Projet  
-* Exercice 5 -> C++ (exercice 6 - C++) 
-* codage "individuel"
-* etat d'avancement => voir []()
-
-## Exercice 7 => **C++**
-### Suivi Projet  
-* Exercice 6 -> C++ (exercice 3 - C++) 
-* codage "individuel"
-* etat d'avancement => voir []()
+### ***Exo9*** 
+* donnee : exercice 1 - C#
+* voir chapitre théorique : C# -> Ch2 
+* etat d'avancement => voir [#42](https://github.com/PBYetml/POBJ_SLO2_24_25/issues/42)
 
 
-## Exercice 10 => **C#**
-### Suivi Projet  
-* Exercice 2 - C++ -> C# (exercice 4 - C++) 
-* codage "individuel" 
-* etat d'avancement => voir []()
-
-## Exercice 4 => **JAVA**
-### Suivi Projet  
-* Exercice 1 - C-> Java (exercice 1 - C++) 
-* codage "individuel"
-=> etat d'avancement => voir []()
 
 
 
