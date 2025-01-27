@@ -90,10 +90,10 @@ namespace Demo_24_25
             infoUser_o = Console.ReadLine();
 
             //-- conversion chaîne de caractère en nombre entier --// 
-            
+
             //-> les fonctions en commentaire ne fonctionnent pas <- PAS trouvé la raison !!! 
             //-> Attention la méthode Parse doit être associé à une class -> type.Parse 
-            //valUser = int.Parse(infoUser_o, NumberStyles.AllowDecimalPoint);  => ne fonctionne pas -> exception 
+            //valUserInt = int.Parse("4.01", NumberStyles.AllowDecimalPoint);  //=> ne fonctionne pas -> exception 
             //valUser = Convert.ToInt32(infoUser_o);                            => ne fonctionne pas -> exception
             
             valUserInt = Convert.ToInt32(Convert.ToDouble(infoUser_o)); 
