@@ -2,7 +2,11 @@
 #define Cercle_h
 
 
-class Cercle {
+#include "FormesGeometriques.h"
+
+
+class Cercle : public FormesGeometriques {
+
 
  public:
 

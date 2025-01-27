@@ -2,13 +2,19 @@
 #define Rectangle_h
 
 
-class Rectangle {
+
+#include "FormesGeometriques.h"
+
+
+class Rectangle : public FormesGeometriques {
+
 
  public:
 
     double CalculerSurface(double largeur, double hauteur);
 
     double CalculerPermietre(double largeur, double hauteur);
+
 };
 
 #endif // Rectangle_h
