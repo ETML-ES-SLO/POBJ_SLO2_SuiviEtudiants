@@ -155,6 +155,7 @@ prenez celui-qui vous convient
 * voir chapitre théorique : C++ -> Ch2, Ch3, Ch4, Ch5, Ch6 
 * etat d'avancement => voir []()
 
+## **C#**
 ### ***Exo8*** 
 * donnee : exercice 1 - C#
 * voir chapitre théorique : C# -> Ch2 
