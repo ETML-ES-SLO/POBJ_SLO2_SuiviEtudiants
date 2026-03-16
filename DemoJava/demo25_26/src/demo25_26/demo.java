@@ -1,9 +1,12 @@
 package demo25_26;
 
+
 import java.lang.*;
 import java.math.*;
 import java.util.Scanner;
 import java.util.Locale;
+
+
 
 
 public class demo 
@@ -61,9 +64,17 @@ public class demo
 		varInt = varEnum.getEnum(); 
 		
 		//-- Objet --// 
-		String maChaine = "Hello SLO"; 	//-> chaine de caractère 
-		Scanner monClavier = new Scanner(System.in);  	//-> Objet lié au clavier 
-
+		//-> chaine de caractère 
+		String maChaine = "Hello SLO"; 	
+		
+		//-> Objet lié au clavier 
+		Scanner monClavier = new Scanner(System.in);  	
+		
+		//-> Objet lié à une class personnelle, sans instanciation 
+		personnage SLO2; 
+		
+		SLO2 = new personnage((byte)50); 
+		
 		//-- exemple assignation sur variable primaire --//   
 		varB = true;	//-> asssignation sur un booleen -> false ou true  
 		
